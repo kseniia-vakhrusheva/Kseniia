@@ -13,7 +13,7 @@
 
 * [Nonogram game](https://rolling-scopes-school.github.io/kseniia-vakhrusheva-JSFE2023Q4/nonogram/)
 * [Hangman game](https://rolling-scopes-school.github.io/kseniia-vakhrusheva-JSFE2023Q4/hangman/)
-* [Coffee house website](https://rolling-scopes-school.github.io/kseniia-vakhrusheva-JSFE2023Q4/coffee_house/ )
+
 
 ### 💻 Tech Stack:
 <div style="display: flex;">
